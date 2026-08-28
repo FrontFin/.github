@@ -12,4 +12,4 @@ Use this repository's "Report a vulnerability" button (Security tab → Report a
 
 We will acknowledge receipt and keep you updated on remediation.
 
-If you don't receive an acknowledgement, or the repository doesn't have advisories enabled, email security@meshconnect.com instead.
+If you don't receive an acknowledgement, or the repository doesn't have advisories enabled, email security@meshpay.com instead.
